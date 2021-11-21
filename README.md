@@ -6,7 +6,7 @@ I wrote almost everything. See Attribution section for details
     either with wired modems or directly on it. Then, follow these steps:
   <ol>
     <li>Paste and run the following command: <br />
-      &emsp;pastebin run kSkwEchg</li>
+      &emsp;pastebin run MiN1as0G</li>
     <li>Choose whether to calibrate or not. The calibration is not currently used for anything.</li>
   </ol>
 
