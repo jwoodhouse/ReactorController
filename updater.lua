@@ -5,7 +5,7 @@ fs.makeDir("/usr/apis")
 
 local filesToUpdate = {
 	["/reactorController.lua"] = "7qce1Jib",
-    ["/usr/apis/touchpoint.lua"] = "",
+    ["/usr/apis/touchpoint.lua"] = "nx9pkLbJ",
 }
 -- Table for files/pastebin codes
 
