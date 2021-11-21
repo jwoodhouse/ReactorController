@@ -542,9 +542,7 @@ local function setRods(level)
     elseif (reactorVersion == "Bigger Reactors") then
         reactor.setAllControlRodLevels(level)
     elseif (reactorVersion == "Extreme Reactors") then
-        for i in pairs(reactor.getControlRodsLevels()) do
-            reactor.setControlRodsLevels(i, level)
-        end
+	reactor.setAllControlRodLevels(level)
     end
 end
 
